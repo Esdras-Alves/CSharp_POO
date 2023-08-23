@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="Album.cs" />
     <Compile Include="Banda.cs" />
+    <Compile Include="Episodio.cs" />
     <Compile Include="Musica.cs" />
+    <Compile Include="Podcast.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
